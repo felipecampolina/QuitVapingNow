@@ -23,5 +23,4 @@ O objetivo geral deste trabalho é a criação de uma plataforma que auxilia as 
 
 Para utilização do website, o usuário deve entrar no site via link disponibilizado ou via VS code, usando a extensão LIVE-SERVER, método recomendado devido ao erro de conexão de uma API usada com o site o qual a página foi hospedada. Após acessada a página de login, o cliente deve criar uma conta, assim permitindo o login e o uso da plataforma. 
 
-## Observação
-É importante ressaltar que o software final possui uma pequena discrepância com o planejado inicialmente, além de uma interface simples, por causa da falta de tempo devido ao abandonamento de dois integrantes do grupo, assim sendo, não realizaram a devida parte do trabalho(sprint 2 e 3 ) , dificultando o desenvolvimento do site, consequentemente , sobrecarregando o resto da equipe, fator que foi crucial para o produto final, e sendo uma questão que foi comunicada aos professores da disciplina.
+
